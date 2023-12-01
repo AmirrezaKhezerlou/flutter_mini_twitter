@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const MainUrl = 'https://amirrezakhezerlou.ir';
+const MainUrl = 'localhost';
 const SignUpUrl = '/AndroidApps/MiniTwitter/sign/signup.php';
 const SignInUrl = '/AndroidApps/MiniTwitter/sign/signin.php';
 const SendTwitteUrl = '/AndroidApps/MiniTwitter/send_Twittes.php';
